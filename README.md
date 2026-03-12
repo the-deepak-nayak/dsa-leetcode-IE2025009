@@ -1,6 +1,7 @@
 `This is a repository which stores the DSA Leetcode problems solved by me during the DSA Lab class.`
 
 Currently having:
+
     Assignment-1 - `intersectarr.cpp, monotonicarray.cpp, movezeroes.cpp, twosum.cpp`
 
     Assignment-2 - `majorityelement.cpp, mergearray.cpp, sortarray.cpp`
@@ -18,4 +19,4 @@ Currently having:
 
 Please visit this more often to improve your DSA (if you have come here, then you need something else(linked attahced below))
 
-`https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DxJ3vatsNQDU&ved=2ahUKEwi659GS5ZqTAxWkQPUHHX1LJI0QtwJ6BAgSEAI&usg=AOvVaw0TADx-V0v-jwbLWMyz0aS-` 
+`https://www.youtube.com/watch?v=xJ3vatsNQDU` 
